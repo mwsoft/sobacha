@@ -24,6 +24,7 @@ public class Train {
 			String line;
 			while ((line = reader.readLine()) != null) {
 				List<Word> words = io.readSentence(line);
+				
 			}
 		}
 
